@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Multi-Cloud DevOps Automation Platform",
+  "description": "A dashboard to visualize a self-managing, scalable DevOps platform. It automates CI/CD, infrastructure provisioning, deployment, and monitoring, and uses AI to generate configuration and provide insights.",
+  "requestFramePermissions": []
+}
